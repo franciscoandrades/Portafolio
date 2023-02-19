@@ -6,6 +6,8 @@ Autor: Francisco Andrades, Estudiante de Ing Civil Informática de la UTFSM.
 
 Email: francisco.andrades@sansano.usm.cl
 
+Last Updated: Aug, 2021. (New projects have been private.)
+
 ## ETL y EDA
 - **DataIngestion.ipynb:** Notebook donde se simula el proceso ETL.
 - **MissingValues_EDA.ipynb:** Notebook donde se exploran datos de una empresa hipotética y se decide como resolver los Missing Values.

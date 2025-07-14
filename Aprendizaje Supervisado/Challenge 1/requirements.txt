@@ -1,0 +1,6 @@
+notebook
+pandas
+seaborn
+scikit-learn
+tensorflow
+
